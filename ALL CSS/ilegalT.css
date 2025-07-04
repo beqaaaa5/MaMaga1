@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    width: 100%;
+    height: 150vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+
+
+#mat{
+    width: 70%;
+    height: 100%;
+    border-radius: 30px;
+    background-color: rgb(255, 0, 0);
+    gap: 40px;
+}
